@@ -1,5 +1,7 @@
 my thinking is this
 
+"Aborting or Restarting a Merge" G137
+
 "The fast-forward case is particuarly common on tracking branches" G141
 
 "the `non-fast-forward push problem`" G220
