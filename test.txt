@@ -7,3 +7,5 @@ exec or fork
 in `alternate` branch - what do you think?
 
 MORE THINGS HERE
+
+reset, merge, rebase 
