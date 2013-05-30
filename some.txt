@@ -9,3 +9,14 @@ remote branch - you push
 
 merge strategies:
  1. degenerate merges G140
+
+
+Normal Merges
+1. Resolve 
+2. Recursive - a simple criss-cross merge 
+3. Octopus
+
+
+Each of the merge strategies described in this chapter uses an underlying merge driver to resolve and merge each individual file G145
+
+
