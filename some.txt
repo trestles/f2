@@ -1,3 +1,11 @@
 my thinking is this
 
 "A merge unifies two or more commit history branches" G121
+
+"Git computes a merge result and creates a new commit that represents the new, unified state" G121
+
+remote branch - you push
+
+
+merge strategies:
+ 1. degenerate merges G140
