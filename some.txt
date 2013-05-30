@@ -1,1 +1,3 @@
 my thinking is this
+
+"A merge unifies two or more commit history branches" G121
