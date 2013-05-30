@@ -9,6 +9,7 @@ my thinking is this
 "Git computes a merge result and creates a new commit that represents the new, unified state" G121
 
 remote branch - you push
+  git remote show origin
 
 
 merge strategies:
