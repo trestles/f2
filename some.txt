@@ -2,6 +2,8 @@ my thinking is this
 
 "The fast-forward case is particuarly common on tracking branches" G141
 
+"the `non-fast-forward push problem`" G220
+
 "A merge unifies two or more commit history branches" G121
 
 "Git computes a merge result and creates a new commit that represents the new, unified state" G121
