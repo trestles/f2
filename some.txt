@@ -50,5 +50,10 @@ Each of the merge strategies described in this chapter uses an underlying merge 
 Remotes:
 git remote add origin /tmp/Depot/public_html # G206
 
+"The command `git remote rm` removes the given remote and all of its associated remote-tracking branches from your local repository" G225
+
 Where did everything go????
+
+SHOW CONFIG INFO:
+git config -l  # p226
 
