@@ -1,3 +1,7 @@
+
+
+git reset --hard HEAD
+
 my thinking is this
 
 "Aborting or Restarting a Merge" G137
