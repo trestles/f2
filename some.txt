@@ -6,7 +6,12 @@ my thinking is this
 
 "Aborting or Restarting a Merge" G137
 
+
+Where is the other information?
+
 "The fast-forward case is particuarly common on tracking branches" G141
+
+"Your local tracking branch HEADs will always be fully present and represented because that is where the branch HEAD was after the `previous` fetch operation" G141
 
 "the `non-fast-forward push problem`" G220
 
@@ -20,3 +25,16 @@ remote branch - you push
 
 merge strategies:
  1. degenerate merges G140
+
+
+Normal Merges
+1. Resolve 
+2. Recursive - a simple criss-cross merge 
+3. Octopus
+
+
+Each of the merge strategies described in this chapter uses an underlying merge driver to resolve and merge each individual file G145
+
+Remotes:
+git remote add origin /tmp/Depot/public_html # G206
+
