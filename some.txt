@@ -1,6 +1,6 @@
 
 
-git reset --hard HEAD
+git reset --hard HEAD #G137
 
 my thinking is this
 
