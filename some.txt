@@ -1,5 +1,15 @@
 
 
+COMMITS:
+"Heres what you must understand about the DAG of commits. First of all, each commit can have zero or more parents, as follow:
+1. normal commits have exactly one parent, which is the previous commit in the history. When you make a change, your change is the difference between your new commit and its parent
+
+2. there is usually only one commit wiht zero parents: the initial commit, which appears at the bottom of the graph
+
+3. A merge commit which such as the one at the top of the graph, has more than one parent
+"G78
+
+
 git reset --hard HEAD #G137
 
 my thinking is this
