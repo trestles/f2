@@ -9,6 +9,8 @@ COMMITS:
 3. A merge commit which such as the one at the top of the graph, has more than one parent
 "G78
 
+refs and symrefs
+a ref is an SHA1 hash ID that refers to an object within the Git object store G68
 
 git reset --hard HEAD #G137
 
